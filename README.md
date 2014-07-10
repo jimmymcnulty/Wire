@@ -1,4 +1,4 @@
-House-of-Clipcards
+Wire
 ==================
 
-Debuting on Crackle this Winter...
+Demo repository for a Baltimore crime mapping application
